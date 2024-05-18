@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manthan2312
 - 👀 I’m interested in ..programming.
-- 🌱 I’m currently learning .c++..
+- 🌱 I’m currently learning .PHP
 
 <!---
 Manthan2312/Manthan2312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
