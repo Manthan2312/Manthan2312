@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manthan2312
+- 👋 Hi, I’m @Manthan Patel
 - 👀 I’m interested in ..programming.
 - 🌱 I’m currently learning .PHP
 
