@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manthan Patel
 - 👀 I’m interested in ..programming.
-- 🌱 I’m currently learning .DSA in C
+- 🌱 I’m currently learning Java
 - My Website:https://codingquestions.in/
 
 <!---
