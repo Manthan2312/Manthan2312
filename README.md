@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manthan Patel
 - 👀 I’m interested in ..programming.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Python 
 - My Website:https://codingquestions.in/
 
 <!---
